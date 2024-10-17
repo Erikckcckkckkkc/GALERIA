@@ -4,7 +4,7 @@ const gameGrid = document.querySelector('.game-grid');
 const jogos = [
     { nome: 'Pac-Man', imagem: 'pac-man.jpg' },
     { nome: 'Mario Bros', imagem: 'mario-bros.jpg' },
-    { nome: 'Pitfall', imagem: 'Modelo 2.png' },
+    { nome: 'Pitfall', imagem: 'modelo 2.jpg' },
     { nome: 'Enduro', imagem: 'morris.webp' },
     { nome: 'Donkey Kong', imagem: 'mario-bros.jpg' },
     { nome: 'Galaxy', imagem: 'mario-bros.jpg' },
